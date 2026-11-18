@@ -1,16 +1,21 @@
-## Hi there 👋
+# Nova lvyn — Elevate Your Everyday Living
 
-<!--
-**novalvyn/novalvyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Product-review and buying-guide blog for Beauty, Health & Household Essentials.
 
-Here are some ideas to get you started:
+Honest, practical research to help you shop with confidence, not guesswork.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 Website: https://novalvyn.com/
+
+## What we cover
+
+- **Beauty & Care** — skincare, beauty tools, personal care
+- **Health & Wellness** — ear care, eye care, wound care, wellness guides
+- **Household Essentials** — everyday home essentials, newborn care guides
+- **Prime Exclusives** — curated picks
+
+## About
+
+Nova lvyn shares research-based product reviews, ingredient guides, and buying guides.
+We do not accept payment for positive reviews.
+
+📧 Contact: https://novalvyn.com/contact-us/
